@@ -20,4 +20,4 @@ watching movie trailers, and creating favorite lists.
   Users can check the trending movies.<br />
   <img src="https://github.com/RonghanChe/Movie-Manager-/blob/master/Images/Capture4.PNG" width="250" height="500" align="middle"/>
   <img src="https://github.com/RonghanChe/Movie-Manager-/blob/master/Images/Capture5.PNG" width="250" height="500" align="middle"/><br /><br />
-This project is designed by Osman Balci    balci@vt.edu
+This project is designed by Osman Balci    balci@vt.edu, developed by Ronghan Che cherh63@vt.edu
